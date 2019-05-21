@@ -1,0 +1,11 @@
+C:\Users\phali\source\repos\FIFO\FIFO\bin\Debug\netcoreapp2.2\FIFO.deps.json
+C:\Users\phali\source\repos\FIFO\FIFO\bin\Debug\netcoreapp2.2\FIFO.runtimeconfig.json
+C:\Users\phali\source\repos\FIFO\FIFO\bin\Debug\netcoreapp2.2\FIFO.runtimeconfig.dev.json
+C:\Users\phali\source\repos\FIFO\FIFO\bin\Debug\netcoreapp2.2\FIFO.dll
+C:\Users\phali\source\repos\FIFO\FIFO\bin\Debug\netcoreapp2.2\FIFO.pdb
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.csprojAssemblyReference.cache
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.csproj.CoreCompileInputs.cache
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.AssemblyInfoInputs.cache
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.AssemblyInfo.cs
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.dll
+C:\Users\phali\source\repos\FIFO\FIFO\obj\Debug\netcoreapp2.2\FIFO.pdb
